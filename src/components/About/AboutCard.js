@@ -25,7 +25,7 @@ function AboutCard() {
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Striving for Growth!"{" "}
-          </p>
+          </p>g
         </blockquote>
       </Card.Body>
     </Card>

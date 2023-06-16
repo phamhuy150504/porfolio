@@ -4,7 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import basicUI from "../../Assets/Projects/basicUI.png";
 import movie from "../../Assets/Projects/movie.png";
-import phone from "../../Assets/Projects/phone.png";
+import airbnb from "../../Assets/Projects/airbnb.png";
 
 function Projects() {
   return (
@@ -31,12 +31,12 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={phone}
+              imgPath={airbnb}
               isBlog={false}
               title="Purchase Phone"
-              description="Web basic purchase products with html, css, bootstrap and Javascript. This is basic website allow add, delete, edit and update products .... "
-              ghLink="https://github.com/soumyajit4419/Bits-0f-C0de"
-              demoLink="https://caption-api.vercel.app/"
+              description="Web booking room ( clone airbnb ). This is basic website allow user booking room, see detail, info .... "
+              ghLink="https://gitlab.com/giaovan99/capstone-project-airbnb.git"
+              demoLink="https://capstone-project-airbnb.vercel.app/"
             />
           </Col>
 

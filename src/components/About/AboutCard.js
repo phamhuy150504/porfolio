@@ -9,7 +9,7 @@ function AboutCard() {
         <blockquote className="blockquote mb-0">
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">PHAM GIA HUY </span>
-            from <span className="purple">freshman at HS University and graduate at CyberSoft Center</span>
+            from <span className="purple">freshman at Hoa Sen University and graduate at CyberSoft Center and Working at Sanbul Solution</span>
           </p>
           <ul>
             <li className="about-activity">
@@ -25,7 +25,7 @@ function AboutCard() {
 
           <p style={{ color: "rgb(155 126 172)" }}>
             "Striving for Growth!"{" "}
-          </p>g
+          </p>
         </blockquote>
       </Card.Body>
     </Card>
